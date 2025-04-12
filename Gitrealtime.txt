@@ -1,0 +1,30 @@
+
+Git - Real time working 
+
+Git hub - Online website
+Git Lab
+Git bucket
+
+
+Working Directory
+Computer - Local Repository
+Online - Cloud repository
+        Public
+        Private
+
+
+Today agenda
+
+1. Git Download
+2. Project Creation and Project cloning
+3. Code staging
+4. Code Committing
+5. Git hub Creation
+6. Adding our project in Git Hub
+7. Git push
+
+
+
+Git Workflow
+
+Working Directory   Git Init  git add        Staging area     Git Commit       Local Repository     Git Push    Cloud repository  (Repo)

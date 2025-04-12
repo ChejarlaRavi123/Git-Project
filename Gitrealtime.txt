@@ -1,16 +1,14 @@
 
 Git - Real time working 
 
-Git hub - Online website
+Git hub - Online websites
 Git Lab
 Git bucket
 
 
 Working Directory
 Computer - Local Repository
-Online - Cloud repository
-        Public
-        Private
+Online - Cloud repository (Public and Private Repositories)
 
 
 Today agenda
